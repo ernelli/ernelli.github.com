@@ -1,0 +1,3 @@
+[submodule "floorplanner"]
+	path = floorplanner
+	url = https://github.com/ernelli/floorplanner.git
